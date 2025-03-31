@@ -10,7 +10,7 @@ from PyQt6.QtCore import Qt, QThread, pyqtSignal
 from PyQt6.QtGui import QIcon
 
 
-genai.configure(api_key="AIzaSyDkXR3W6SobrZd5rdT2ZwEFBT5hjmo8RYE")
+genai.configure(api_key="#")#put your API-Key here
 
 def apply_dark_lavender_theme(self):
     self.setStyleSheet("""
