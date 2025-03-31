@@ -1,5 +1,5 @@
 # chronosv1.0_NoteNinja
-# put your own API-Key (suggested:From Gemini)
+put your own API-Key (suggested:From Gemini)
 *NoteNinjaAI* is a app developed by Us whose work is to generate concise summaries of the discussion by listening to the meeting audio in real time (or by taking the recorded audio ) as input . 
 features-
 -It will provide meeting time along with the dialogues
